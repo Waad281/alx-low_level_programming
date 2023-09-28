@@ -4,10 +4,10 @@
 
  * S@: pointer to the string 
 
- * Return: void
+ * Return: nothing
  */
-
 void _puts_recursion(char *s);
+
 {
 	if (*s != '\0')
 	{
