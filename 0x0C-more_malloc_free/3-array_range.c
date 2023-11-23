@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /**
  * array_range - create an array of integers
- * @main: minimum value
- * @max: value 
+ * @min: minimum value
+ * @max: value
  * Return: int pointer ti the allocated memory
  */
 int *array_range(int min, int max)
